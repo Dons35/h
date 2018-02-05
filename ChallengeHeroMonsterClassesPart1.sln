@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeHeroMonsterClassesPart1", "ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1.csproj", "{AA40ECD7-E260-42F4-AEE1-A8F008EB6F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA40ECD7-E260-42F4-AEE1-A8F008EB6F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA40ECD7-E260-42F4-AEE1-A8F008EB6F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA40ECD7-E260-42F4-AEE1-A8F008EB6F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA40ECD7-E260-42F4-AEE1-A8F008EB6F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07165172-A741-4A71-811A-3410E3ABBA4A}
+	EndGlobalSection
+EndGlobal
